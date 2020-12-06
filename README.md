@@ -1,1 +1,1 @@
-# sNIauth
+# sNIauth is sick
